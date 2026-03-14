@@ -1,4 +1,5 @@
 # Dataset-1
 
-This dataset contains ...
----
+This dataset contains:
+
+Battery Tab welding footage (Thermal Camera)
