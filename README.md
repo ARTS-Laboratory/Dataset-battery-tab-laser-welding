@@ -17,6 +17,7 @@ Cite this as:
   title  = {ARTS-Laboratory/Dataset-battery-tab-laser-welding},    
   groups = {ARTS-Lab},    
   url    = {https://github.com/ARTS-Laboratory/ARTS-Laboratory/Dataset-battery-tab-laser-welding},   
+  notes  = {Accessed: Month dd, yyyy},   
 }
 
 <p align="center">
