@@ -1,0 +1,94 @@
+{
+  "schema_version": 2,
+  "recorder_version": "0.1.0",
+  "state": "capture_stopped",
+  "created_utc": "2026-10-23T17:57:16.260532+00:00",
+  "raw_file": "events.raw",
+  "requested_serial": ":lucid_imx63x_plugin:250200198",
+  "selected_source": ":lucid_imx63x_plugin:250200198",
+  "requested_duration_seconds": 5.0,
+  "no_data_timeout_seconds": 10.0,
+  "camera": {
+    "serial_number": "250200198",
+    "integrator": "Lucid Vision Labs",
+    "connection_type": "NETWORK",
+    "event_format": "EVT3",
+    "width": 1280,
+    "height": 720,
+    "biases": {
+      "bias_diff": 0,
+      "bias_diff_off": 0,
+      "bias_diff_on": 0,
+      "bias_fo": 0,
+      "bias_hpf": 0,
+      "bias_refr": 0
+    },
+    "metadata_warnings": []
+  },
+  "python_version": "3.12.10",
+  "platform": "Windows-11-10.0.26100-SP0",
+  "runtime": {
+    "OPENEB_ROOT": null,
+    "MV_HAL_PLUGIN_PATH": "C:\\Users\\THIENAN\\Documents\\camera-sdks\\lucid-hal-only",
+    "MV_HAL_PLUGIN_SEARCH_MODE": null
+  },
+  "buffers_consumed": 62218,
+  "raw_file_bytes": 71673966,
+  "event_count": null,
+  "losslessness_verified": false,
+  "cleanup_errors": [],
+  "camera_controls": {
+    "requested": {
+      "biases": {},
+      "erc": {}
+    },
+    "before": {},
+    "applied": {},
+    "state": "verified"
+  },
+  "camera_before_settings": {
+    "serial_number": "250200198",
+    "integrator": "Lucid Vision Labs",
+    "connection_type": "NETWORK",
+    "event_format": "EVT3",
+    "width": 1280,
+    "height": 720,
+    "biases": {
+      "bias_diff": 0,
+      "bias_diff_off": 0,
+      "bias_diff_on": 0,
+      "bias_fo": 0,
+      "bias_hpf": 0,
+      "bias_refr": 0
+    },
+    "metadata_warnings": []
+  },
+  "started_utc": "2026-10-23T17:57:17.297557+00:00",
+  "elapsed_seconds": 5.014999999999418,
+  "telemetry": {
+    "file": "stream_telemetry.csv",
+    "samples": 21,
+    "settings": {
+      "interval_s": 0.25,
+      "interface": "",
+      "decode_events": false
+    },
+    "raw_payload_bytes_consumed": 71673784,
+    "decoded_cd_events": null,
+    "first_cd_timestamp_us": null,
+    "last_cd_timestamp_us": null,
+    "negative_timestamp_transitions": null,
+    "out_of_bounds_cd_events": null,
+    "network_baseline": {},
+    "network_final": {},
+    "unavailable_camera_fields": [
+      "camera_event_rate_ev_s",
+      "gvsp_frame_rate",
+      "link_throughput_B_s",
+      "incomplete_buffers",
+      "get_buffer_errors"
+    ]
+  },
+  "stop_reason": "duration_reached",
+  "stopped_utc": "2026-10-23T17:57:22.782148+00:00"
+}
