@@ -2,6 +2,13 @@
 Dataset on battery tab laser welding with in situ monitoring 
 
 
+<p align="center">
+<img src="media/experimental_setup.png" alt="drawing" width="700"/> <br> 
+Setup of the in situ monitoring system for laser-based powder bed fusion additive manufacturing.  
+</p>
+<p align="center">
+</p>
+
 ## Licensing and Citation
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License [cc-by-sa 4.0].
